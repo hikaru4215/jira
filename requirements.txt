@@ -1,0 +1,6 @@
+Django~=2.2.10
+djangorestframework~=3.11.0
+django-cors-headers
+djangorestframework-simplejwt~=4.6.0
+djoser
+Pillow
